@@ -1,0 +1,26 @@
+.card-view {
+    margin: 8px 0;
+  }
+  
+  .body-textarea {
+    resize: none;
+    width: 100%;
+  }
+  
+  .title-textarea {
+    font-size: 24px;
+    font-weight: bold;
+    resize: none;
+    width: 100%;
+  }
+
+  .card-title {
+      font-weight: bold;
+  } 
+  button {
+      margin-right: 10px;
+      font-weight: bold;
+  }
+  button:last-child {
+      margin-right: 0;
+  }
